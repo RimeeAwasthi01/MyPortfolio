@@ -6,7 +6,7 @@ It acts as a digital resume and highlights my work in web development.
 ---
 
 ## Live Demo
-rimeeawasthi01.github.io/MyPortfolio/
+https://rimeeawasthi01.github.io/MyPortfolio/
 
 ---
 
